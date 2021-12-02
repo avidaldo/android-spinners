@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/avida/pmdm/android-spinners/Spinners/app/src/main/res/layout/activity_autocompletado.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/avida/pmdm/android-spinners/Spinners/app/src/main/res/layout/activity_autocompletado1.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/avida/pmdm/android-spinners/Spinners/app/src/main/res/layout/activity_autocompletado2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/avida/pmdm/android-spinners/Spinners/app/src/main/res/layout/activity_autocompletado3.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/avida/pmdm/android-spinners/Spinners/app/src/main/res/layout/activity_ej1.xml" value="0.35643115942028986" />
+        <entry key="..\:/Users/avida/pmdm/android-spinners/Spinners/app/src/main/res/layout/activity_ej2.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/avida/pmdm/android-spinners/Spinners/app/src/main/res/layout/activity_ej3.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/avida/pmdm/android-spinners/Spinners/app/src/main/res/layout/activity_ej6.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/avida/pmdm/android-spinners/Spinners/app/src/main/res/layout/activity_main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/avida/pmdm/android-spinners/Spinners/app/src/main/res/layout/activity_spinners.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/avida/pmdm/android-spinners/Spinners/app/src/main/res/layout/chachi_spinner_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/avida/pmdm/android-spinners/Spinners/app/src/main/res/layout/item_guay.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
